@@ -1,4 +1,12 @@
-# Assumptions for Simulated Cannabis E-Commerce Dataset (100 rows)
+This folder contains the files for the simulated dataset an ecommerce cannabis company would probably obtain from their website.
+
+The first script `cannabis-ecommerce-prod-data-sim.ipynb` contains the simulation for the products on the site which have been transferred to a csv as `cannabis-prod-data.csv`. It contains information like product id, name of the product, product category, strain type, strain name, vendor, thc and cbd percentage, potency in mg, price, quantity available, description, tags, and the date the product was added.
+
+The second script `cannabis-ecommerce-userbehavior-sim.ipynb` contains the simulation for the user behavior data on the site as they browse the website and has been transferred to a csv as `cannabis-user-data.csv`. It contains data including events like if the clicked on the product link to view it, if they saved the product listing in a wishlist/favorite/bookmark for future reference, if they added to their cart and not buy it, and if they purchased it. It also includes information like product id, user information, how much they bought, any ratings they gave, and the timestamp of their session.
+
+---
+
+# Assumptions for Simulated Cannabis E-Commerce Product Dataset (100 rows)
 
 ---
 
