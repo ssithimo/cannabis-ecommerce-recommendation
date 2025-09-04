@@ -46,7 +46,8 @@ This project analyzes cannabis product and user interaction data from an e-comme
 - Integrate conditional probabilities for purchasing behaviors in simulated data for better model outcomes
 - Integrate user demographics for more granular personalization  
 - Experiment with LightGCN or other graph neural network recommenders  
-- Deploy as an API endpoint for product recommendation  
+- Deploy as an API endpoint for product recommendation
+- Employ LLM text embeddings (OpenAI api) with graph-based emebeddings to create a better hybrid recommendation system
 
 ---
 
