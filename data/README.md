@@ -4,6 +4,8 @@ The first script `cannabis-ecommerce-prod-data-sim.ipynb` contains the simulatio
 
 The second script `cannabis-ecommerce-userbehavior-sim.ipynb` contains the simulation for the user behavior data on the site as they browse the website and has been transferred to a csv as `cannabis-user-data.csv`. It contains data including events like if the clicked on the product link to view it, if they saved the product listing in a wishlist/favorite/bookmark for future reference, if they added to their cart and not buy it, and if they purchased it. It also includes information like product id, user information, how much they bought, any ratings they gave, and the timestamp of their session.
 
+If the notebook scripts aren't loading in github, use the pdf printed versions.
+
 ---
 
 # Assumptions for Simulated Cannabis E-Commerce Product Dataset (100 rows)
